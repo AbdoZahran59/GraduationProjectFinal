@@ -1,1 +1,1 @@
-GP Mapping App
+The project "GP Mapping App" is a Kotlin-based application designed to alert users about cracks or signs on roads. It integrates GIS software for spatial data management and visualization. The app leverages the YOLOv8 machine learning model for detecting road damage through image recognition. This combination of technologies helps in providing real-time alerts to users, enhancing road safety by identifying and reporting potential hazards.
